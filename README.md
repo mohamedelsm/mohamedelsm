@@ -4,5 +4,4 @@ I'm an undergraduate student in Software Engineering at McGill University. I hav
 
 Programming: Java, Python, C, JavaScript, Vue.js,  HTML, CSS, Bash, SQL
 
-Programming Tools/IDE: Linux, Eclipse, Jupyter Notebook, IntelliJ IDEA, Git, Github
 
