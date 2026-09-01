@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Mohamed Elsamadouny</h1>
 
 # 💫 About Me:
-I am a motivated third-year software engineering student at McGill University. I am passionate about applications/web development, machine learning...basically everything technology-related. <br>
+
+Masters student in computer science at Mcgill, also working as a ML engineer. Passionate about AI and machine learning broadly—agents, systems design, infrastructure, and how these technologies actually work in production. Excited about real-world applications and the technical depth behind them. Happy to chat about ML, AI, and where this is all heading. <br>
 
 Connect with me! 🌐 <br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elsamadouny) 
